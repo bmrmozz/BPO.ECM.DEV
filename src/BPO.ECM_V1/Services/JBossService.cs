@@ -7,10 +7,5 @@ namespace BPO.ECM_V1.Services
 {
     public class JBossService
     {
-        public JBossService ()
-        {
-        
-        }
-
     }
 }
